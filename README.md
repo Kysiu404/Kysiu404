@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christopher</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">I'm having fun creating programs</h3>
 
 - 🌱 I’m currently learning **Java**
